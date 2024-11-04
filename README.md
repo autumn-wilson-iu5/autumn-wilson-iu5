@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @autumn-wilson-iu5
 - 👀 I’m interested in arts and crafts
-- 🌱 I’m currently learning to use Git, and knitting.
+- 🌱 I’m currently learning to use Git and how to knit.
 - 😄 Pronouns: She/her
 
 <!---
